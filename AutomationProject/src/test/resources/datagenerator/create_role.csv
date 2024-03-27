@@ -1,0 +1,56 @@
+RoleName,Description,FeaturePermission,DirectoryPermission
+AP,ability to view and manage roles of all users,all,all
+AP1,ability to view and manage roles of all users,rolesmanagement,all
+AP2,ability to view and manage roles of all users,rolesmanagement,all
+Role1,ability to view and manage roles of all users,rolesmanagement,all
+Role2,ability to view and manage all users,usermanagement,all
+Role3,ability to create and view schedules,taskscheduling,all
+Role4,manage all the lockers,locker,all
+Role5,view and manage queues and create queues,queue,all
+Role6,ability to execute Bots,repositorymanager,all
+Role7,ability to view and manage roles of all users,rolesmanagement,all
+Role8,ability to view and manage all users,usermanagement,all
+Role9,ability to create and view schedules,taskscheduling,all
+Role10,manage all the lockers,locker,all
+Role11,view and manage queues and create queues,queue,all
+Role12,ability to execute Bots,repositorymanager,all
+Role13,ability to view and manage roles of all users,rolesmanagement,all
+Role14,ability to view and manage all users,usermanagement,all
+Role15,ability to create and view schedules,taskscheduling,all
+Role16,manage all the lockers,locker,all
+Role17,view and manage queues and create queues,queue,all
+Role18,ability to execute Bots,repositorymanager,all
+Role19,ability to view and manage roles of all users,rolesmanagement,all
+Role20,ability to view and manage all users,usermanagement,all
+Role21,ability to create and view schedules,taskscheduling,all
+Role22,manage all the lockers,locker,all
+Role23,view and manage queues and create queues,queue,all
+Role24,ability to execute Bots,repositorymanager,all
+Role25,ability to view and manage roles of all users,rolesmanagement,all
+Role26,ability to view and manage all users,usermanagement,all
+Role27,ability to create and view schedules,taskscheduling,all
+Role28,manage all the lockers,locker,all
+Role29,view and manage queues and create queues,queue,all
+Role30,ability to execute Bots,repositorymanager,all
+Role31,ability to view and manage roles of all users,rolesmanagement,all
+Role32,ability to view and manage all users,usermanagement,all
+Role33,ability to create and view schedules,taskscheduling,all
+Role34,manage all the lockers,locker,all
+Role35,view and manage queues and create queues,queue,all
+Role36,ability to execute Bots,repositorymanager,all
+Role37,ability to execute Bots,rolesmanagement,all
+Role38,ability to view and manage roles of all users,usermanagement,all
+Role39,ability to view and manage all users,taskscheduling,all
+Role40,ability to create and view schedules,locker,all
+Role41,manage all the lockers,queue,all
+Role42,view and manage queues and create queues,repositorymanager,all
+Role43,ability to execute Bots,rolesmanagement,all
+Role44,ability to view and manage roles of all users,usermanagement,all
+Role45,ability to view and manage all users,taskscheduling,all
+Role46,ability to create and view schedules,locker,all
+Role47,manage all the lockers,queue,all
+Role48,view and manage queues and create queues,repositorymanager,all
+Role49,ability to execute Bots,queue,all
+Role50,ability to execute Bots,repositorymanager,all
+Role51,ability to execute Bots,rolesmanagement,all
+Role52,ability to execute Bots,queue,all

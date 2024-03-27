@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite verbose="10" name="Data Generator Test Suite" annotations="JDK" parallel="none" preserve-order="true">
+    <test name="PreRequisite">
+        <classes>
+            <class name="com.Automation.Datagenerator.test.PreRequisiteTest"/>
+        </classes>
+    </test>
+    <test name="Role">
+        <classes>
+            <class name="com.Automation.Datagenerator.test.administration.usermanagement.RoleTest"/>
+        </classes>
+    </test>
+    <test name="User">
+        <classes>
+            <class name="com.Automation.Datagenerator.test.administration.usermanagement.UserTest"/>
+        </classes>
+    </test>
+</suite>

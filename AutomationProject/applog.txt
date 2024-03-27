@@ -1,0 +1,380 @@
+INFO    2024-03-26 01:50:34,178 [main] org.testng.internal.Utils  - [TestNG] Running:
+  C:\Users\HarshChaudhary\AppData\Local\JetBrains\IdeaIC2022.2\temp-testng-customsuite.xml
+
+INFO    2024-03-26 02:20:55,858 [main] org.testng.internal.Utils  - [TestClass] Adding method PreRequisiteTest.CreateRunnerUserWithAllPermissions()[pri:5, instance:null] on TestClass class com.Automation.Datagenerator.test.PreRequisiteTest
+INFO    2024-03-26 02:20:55,860 [main] org.testng.internal.Utils  - [TestClass] Adding method PreRequisiteTest.CreateAdminUserWithAllPermissions()[pri:3, instance:null] on TestClass class com.Automation.Datagenerator.test.PreRequisiteTest
+INFO    2024-03-26 02:20:55,860 [main] org.testng.internal.Utils  - [TestClass] Adding method PreRequisiteTest.CreateAllPermissionRole()[pri:2, instance:null] on TestClass class com.Automation.Datagenerator.test.PreRequisiteTest
+INFO    2024-03-26 02:20:55,862 [main] org.testng.internal.Utils  - [TestClass] Adding method PreRequisiteTest.CreateDeveloperUserWithAllPermissions()[pri:4, instance:null] on TestClass class com.Automation.Datagenerator.test.PreRequisiteTest
+INFO    2024-03-26 02:20:55,872 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,873 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+INFO    2024-03-26 02:20:55,875 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,875 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,875 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,876 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,876 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,876 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,881 [main] org.testng.internal.Utils  - [XmlMethodSelector] Including method com.Automation.Datagenerator.test.BeforeClass()
+INFO    2024-03-26 02:20:55,881 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+INFO    2024-03-26 02:20:55,887 [main] org.testng.internal.Utils  - [MethodInheritance] PreRequisiteTest.BeforeClass()[pri:0, instance:null] DEPENDS ON BaseTest.generateAuthenticationToken()[pri:0, instance:null]
+INFO    2024-03-26 02:20:55,896 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+INFO    2024-03-26 02:20:55,897 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,897 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,897 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,897 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,897 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,897 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,899 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,899 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,899 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,899 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,900 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,900 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,900 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,900 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,901 [main] org.testng.internal.Utils  - [XmlMethodSelector] Including method com.Automation.Datagenerator.test.CreateRunnerUserWithAllPermissions()
+INFO    2024-03-26 02:20:55,901 [main] org.testng.internal.Utils  - [XmlMethodSelector] Including method com.Automation.Datagenerator.test.CreateAdminUserWithAllPermissions()
+INFO    2024-03-26 02:20:55,901 [main] org.testng.internal.Utils  - [XmlMethodSelector] Including method com.Automation.Datagenerator.test.CreateAllPermissionRole()
+INFO    2024-03-26 02:20:55,901 [main] org.testng.internal.Utils  - [XmlMethodSelector] Including method com.Automation.Datagenerator.test.CreateDeveloperUserWithAllPermissions()
+INFO    2024-03-26 02:20:55,901 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,903 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+INFO    2024-03-26 02:20:55,904 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,904 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,904 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,904 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,906 [main] org.testng.internal.Utils  - [TestRunner] Running the tests in 'Role' with parallel mode:none
+INFO    2024-03-26 02:20:55,906 [main] org.testng.internal.Utils  - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@3f4f9acd priority: 10
+INFO    2024-03-26 02:20:55,911 [main] org.testng.internal.Utils  - [TestClass] Creating TestClass for [ClassImpl class=com.Automation.Datagenerator.test.administration.usermanagement.RoleTest]
+INFO    2024-03-26 02:20:55,912 [main] org.testng.internal.Utils  - [TestClass] Adding method RoleTest.CreateRole(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:null] on TestClass class com.Automation.Datagenerator.test.administration.usermanagement.RoleTest
+INFO    2024-03-26 02:20:55,913 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,913 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,913 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,913 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,913 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,913 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,936 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,936 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,936 [main] org.testng.internal.Utils  - [XmlMethodSelector] Including method com.Automation.Datagenerator.test.administration.usermanagement.BeforeClass()
+INFO    2024-03-26 02:20:55,937 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,937 [main] org.testng.internal.Utils  - [MethodInheritance] RoleTest.BeforeClass()[pri:0, instance:null] DEPENDS ON BaseTest.generateAuthenticationToken()[pri:0, instance:null]
+INFO    2024-03-26 02:20:55,938 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,938 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,938 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,938 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,938 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,939 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,939 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,939 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,939 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,939 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,940 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,940 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,940 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,940 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,940 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,940 [main] org.testng.internal.Utils  - [XmlMethodSelector] Including method com.Automation.Datagenerator.test.administration.usermanagement.CreateRole()
+INFO    2024-03-26 02:20:55,940 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,940 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,940 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,940 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,940 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,940 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,941 [main] org.testng.internal.Utils  - [TestRunner] Running the tests in 'User' with parallel mode:none
+INFO    2024-03-26 02:20:55,941 [main] org.testng.internal.Utils  - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@6b04acb2 priority: 10
+INFO    2024-03-26 02:20:55,942 [main] org.testng.internal.Utils  - [TestClass] Creating TestClass for [ClassImpl class=com.Automation.Datagenerator.test.administration.usermanagement.UserTest]
+INFO    2024-03-26 02:20:55,943 [main] org.testng.internal.Utils  - [TestClass] Adding method UserTest.CreateUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:null] on TestClass class com.Automation.Datagenerator.test.administration.usermanagement.UserTest
+INFO    2024-03-26 02:20:55,943 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,943 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,943 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,943 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,944 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,944 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,944 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,944 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,945 [main] org.testng.internal.Utils  - [XmlMethodSelector] Including method com.Automation.Datagenerator.test.administration.usermanagement.BeforeClass()
+INFO    2024-03-26 02:20:55,945 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,945 [main] org.testng.internal.Utils  - [MethodInheritance] UserTest.BeforeClass()[pri:0, instance:null] DEPENDS ON BaseTest.generateAuthenticationToken()[pri:0, instance:null]
+INFO    2024-03-26 02:20:55,946 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,946 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,946 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,947 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,947 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,947 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,947 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,947 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,947 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,947 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,947 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,948 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,948 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,948 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,948 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,948 [main] org.testng.internal.Utils  - [XmlMethodSelector] Including method com.Automation.Datagenerator.test.administration.usermanagement.CreateUser()
+INFO    2024-03-26 02:20:55,948 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,948 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,948 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,948 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,948 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO    2024-03-26 02:20:55,949 [main] org.testng.internal.Utils  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO    2024-03-26 02:20:55,950 [main] org.testng.internal.Utils  - [TestNG] Running:
+  C:\Users\HarshChaudhary\PersonalProjects\AutomationProject\src\test\resources\AutomationProject.xml
+
+INFO    2024-03-26 02:20:55,953 [main] org.testng.internal.Utils  - [SuiteRunner] Created 3 TestRunners
+INFO    2024-03-26 02:20:55,959 [main] org.testng.internal.Utils  - [TestRunner] Running test PreRequisite on 1  classes,  included groups:[] excluded groups:[]
+INFO    2024-03-26 02:20:55,959 [main] org.testng.TestClass  - ===== Test class
+com.Automation.Datagenerator.test.PreRequisiteTest
+INFO    2024-03-26 02:20:55,959 [main] org.testng.TestClass  -   @BeforeClass BaseTest.generateAuthenticationToken()[pri:0, instance:com.Automation.Datagenerator.test.PreRequisiteTest@4fcc529]
+INFO    2024-03-26 02:20:55,959 [main] org.testng.TestClass  -   @BeforeClass PreRequisiteTest.BeforeClass()[pri:0, instance:com.Automation.Datagenerator.test.PreRequisiteTest@4fcc529]
+INFO    2024-03-26 02:20:55,959 [main] org.testng.TestClass  -     @Test PreRequisiteTest.CreateRunnerUserWithAllPermissions()[pri:5, instance:com.Automation.Datagenerator.test.PreRequisiteTest@4fcc529]
+INFO    2024-03-26 02:20:55,959 [main] org.testng.TestClass  -     @Test PreRequisiteTest.CreateAdminUserWithAllPermissions()[pri:3, instance:com.Automation.Datagenerator.test.PreRequisiteTest@4fcc529]
+INFO    2024-03-26 02:20:55,959 [main] org.testng.TestClass  -     @Test PreRequisiteTest.CreateAllPermissionRole()[pri:2, instance:com.Automation.Datagenerator.test.PreRequisiteTest@4fcc529]
+INFO    2024-03-26 02:20:55,959 [main] org.testng.TestClass  -     @Test PreRequisiteTest.CreateDeveloperUserWithAllPermissions()[pri:4, instance:com.Automation.Datagenerator.test.PreRequisiteTest@4fcc529]
+INFO    2024-03-26 02:20:55,959 [main] org.testng.TestClass  - ======
+INFO    2024-03-26 02:20:55,964 [main] org.testng.internal.Utils  - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+INFO    2024-03-26 02:20:55,970 [main] org.testng.internal.Utils  - [Invoker 1442077586] Keeping method BaseTest.generateAuthenticationToken()[pri:0, instance:com.Automation.Datagenerator.test.PreRequisiteTest@4fcc529] for class [TestClass name=class com.Automation.Datagenerator.test.PreRequisiteTest]
+INFO    2024-03-26 02:20:55,970 [main] org.testng.internal.Utils  - [Invoker 1442077586] Keeping method PreRequisiteTest.BeforeClass()[pri:0, instance:com.Automation.Datagenerator.test.PreRequisiteTest@4fcc529] for class [TestClass name=class com.Automation.Datagenerator.test.PreRequisiteTest]
+INFO    2024-03-26 02:20:55,973 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking @BeforeClass BaseTest.generateAuthenticationToken()[pri:0, instance:com.Automation.Datagenerator.test.PreRequisiteTest@4fcc529]
+INFO    2024-03-26 02:21:01,802 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking @BeforeClass PreRequisiteTest.BeforeClass()[pri:0, instance:com.Automation.Datagenerator.test.PreRequisiteTest@4fcc529]
+INFO    2024-03-26 02:21:06,485 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:21:06,486 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.PreRequisiteTest.CreateAllPermissionRole
+INFO    2024-03-26 02:21:11,225 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:21:11,239 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:21:11,240 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.PreRequisiteTest.CreateAdminUserWithAllPermissions
+INFO    2024-03-26 02:21:16,478 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:21:16,479 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:21:16,480 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.PreRequisiteTest.CreateDeveloperUserWithAllPermissions
+INFO    2024-03-26 02:21:52,776 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:21:52,776 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:21:52,777 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.PreRequisiteTest.CreateRunnerUserWithAllPermissions
+INFO    2024-03-26 02:22:04,034 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:04,035 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:04,049 [main] org.testng.internal.Utils  - [TestRunner] Running test Role on 1  classes,  included groups:[] excluded groups:[]
+INFO    2024-03-26 02:22:04,049 [main] org.testng.TestClass  - ===== Test class
+com.Automation.Datagenerator.test.administration.usermanagement.RoleTest
+INFO    2024-03-26 02:22:04,049 [main] org.testng.TestClass  -   @BeforeClass BaseTest.generateAuthenticationToken()[pri:0, instance:com.Automation.Datagenerator.test.administration.usermanagement.RoleTest@4ee33af7]
+INFO    2024-03-26 02:22:04,049 [main] org.testng.TestClass  -   @BeforeClass RoleTest.BeforeClass()[pri:0, instance:com.Automation.Datagenerator.test.administration.usermanagement.RoleTest@4ee33af7]
+INFO    2024-03-26 02:22:04,049 [main] org.testng.TestClass  -     @Test RoleTest.CreateRole(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.Automation.Datagenerator.test.administration.usermanagement.RoleTest@4ee33af7]
+INFO    2024-03-26 02:22:04,050 [main] org.testng.TestClass  - ======
+INFO    2024-03-26 02:22:04,050 [main] org.testng.internal.Utils  - [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+INFO    2024-03-26 02:22:04,050 [main] org.testng.internal.Utils  - [Invoker 1442077586] Keeping method BaseTest.generateAuthenticationToken()[pri:0, instance:com.Automation.Datagenerator.test.administration.usermanagement.RoleTest@4ee33af7] for class [TestClass name=class com.Automation.Datagenerator.test.administration.usermanagement.RoleTest]
+INFO    2024-03-26 02:22:04,050 [main] org.testng.internal.Utils  - [Invoker 1442077586] Keeping method RoleTest.BeforeClass()[pri:0, instance:com.Automation.Datagenerator.test.administration.usermanagement.RoleTest@4ee33af7] for class [TestClass name=class com.Automation.Datagenerator.test.administration.usermanagement.RoleTest]
+INFO    2024-03-26 02:22:04,050 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking @BeforeClass BaseTest.generateAuthenticationToken()[pri:0, instance:com.Automation.Datagenerator.test.administration.usermanagement.RoleTest@4ee33af7]
+INFO    2024-03-26 02:22:07,117 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking @BeforeClass RoleTest.BeforeClass()[pri:0, instance:com.Automation.Datagenerator.test.administration.usermanagement.RoleTest@4ee33af7]
+INFO    2024-03-26 02:22:09,934 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:09,935 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:22:13,103 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:13,103 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:13,104 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:22:15,967 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:15,968 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:15,969 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:22:18,799 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:18,800 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:18,801 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:22:21,638 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:21,639 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:21,639 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:22:24,515 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:24,516 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:24,517 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:22:27,365 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:27,366 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:27,366 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:22:30,182 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:30,183 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:30,184 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:22:33,024 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:33,025 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:33,025 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:22:35,866 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:35,867 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:35,867 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:22:38,737 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:38,738 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:38,738 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:22:41,575 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:41,575 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:41,576 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:22:44,413 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:44,413 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:44,414 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:22:47,714 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:47,715 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:47,715 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:22:50,596 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:50,596 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:50,597 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:22:53,429 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:53,430 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:53,430 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:22:56,262 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:56,262 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:56,263 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:22:59,094 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:59,094 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:22:59,094 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:23:01,980 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:01,981 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:01,981 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:23:04,893 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:04,893 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:04,894 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:23:07,723 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:07,723 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:07,724 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:23:10,688 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:10,689 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:10,689 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:23:13,524 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:13,524 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:13,525 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:23:16,365 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:16,366 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:16,366 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:23:19,176 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:19,177 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:19,177 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:23:22,031 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:22,031 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:22,032 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:23:24,870 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:24,870 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:24,871 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:23:27,679 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:27,680 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:27,681 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:23:30,518 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:30,519 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:30,519 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:23:33,363 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:33,363 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:33,363 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:23:36,194 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:36,194 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:36,194 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:23:39,014 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:39,014 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:39,014 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:23:41,858 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:41,858 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:41,858 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:23:44,736 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:44,736 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:44,737 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:23:47,571 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:47,572 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:47,572 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:23:50,414 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:50,415 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:50,415 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:23:53,234 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:53,234 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:53,235 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:23:57,569 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:57,569 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:23:57,570 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:24:00,465 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:00,465 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:00,465 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:24:03,302 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:03,302 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:03,302 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:24:06,157 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:06,158 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:06,158 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:24:09,011 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:09,012 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:09,012 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:24:11,838 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:11,838 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:11,839 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:24:14,668 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:14,668 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:14,669 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:24:17,495 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:17,496 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:17,496 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:24:20,346 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:20,346 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:20,347 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:24:23,173 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:23,174 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:23,174 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:24:25,999 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:25,999 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:26,000 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:24:28,843 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:28,844 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:28,844 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:24:31,685 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:31,685 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:31,685 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:24:34,590 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:34,591 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:34,591 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:24:37,406 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:37,407 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:37,407 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:24:40,340 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:40,341 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:40,341 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:24:43,188 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:43,188 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:43,189 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:24:46,031 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:46,031 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:46,032 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.RoleTest.CreateRole
+INFO    2024-03-26 02:24:48,881 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:48,881 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:48,882 [main] org.testng.internal.Utils  - [TestRunner] Running test User on 1  classes,  included groups:[] excluded groups:[]
+INFO    2024-03-26 02:24:48,882 [main] org.testng.TestClass  - ===== Test class
+com.Automation.Datagenerator.test.administration.usermanagement.UserTest
+INFO    2024-03-26 02:24:48,883 [main] org.testng.TestClass  -   @BeforeClass BaseTest.generateAuthenticationToken()[pri:0, instance:com.Automation.Datagenerator.test.administration.usermanagement.UserTest@4a60ee36]
+INFO    2024-03-26 02:24:48,883 [main] org.testng.TestClass  -   @BeforeClass UserTest.BeforeClass()[pri:0, instance:com.Automation.Datagenerator.test.administration.usermanagement.UserTest@4a60ee36]
+INFO    2024-03-26 02:24:48,883 [main] org.testng.TestClass  -     @Test UserTest.CreateUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.Automation.Datagenerator.test.administration.usermanagement.UserTest@4a60ee36]
+INFO    2024-03-26 02:24:48,883 [main] org.testng.TestClass  - ======
+INFO    2024-03-26 02:24:48,883 [main] org.testng.internal.Utils  - [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+INFO    2024-03-26 02:24:48,883 [main] org.testng.internal.Utils  - [Invoker 1442077586] Keeping method BaseTest.generateAuthenticationToken()[pri:0, instance:com.Automation.Datagenerator.test.administration.usermanagement.UserTest@4a60ee36] for class [TestClass name=class com.Automation.Datagenerator.test.administration.usermanagement.UserTest]
+INFO    2024-03-26 02:24:48,883 [main] org.testng.internal.Utils  - [Invoker 1442077586] Keeping method UserTest.BeforeClass()[pri:0, instance:com.Automation.Datagenerator.test.administration.usermanagement.UserTest@4a60ee36] for class [TestClass name=class com.Automation.Datagenerator.test.administration.usermanagement.UserTest]
+INFO    2024-03-26 02:24:48,883 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking @BeforeClass BaseTest.generateAuthenticationToken()[pri:0, instance:com.Automation.Datagenerator.test.administration.usermanagement.UserTest@4a60ee36]
+INFO    2024-03-26 02:24:51,931 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking @BeforeClass UserTest.BeforeClass()[pri:0, instance:com.Automation.Datagenerator.test.administration.usermanagement.UserTest@4a60ee36]
+INFO    2024-03-26 02:24:53,634 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:53,635 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.UserTest.CreateUser
+INFO    2024-03-26 02:24:55,209 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:55,209 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:55,209 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.UserTest.CreateUser
+INFO    2024-03-26 02:24:56,860 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:56,860 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:56,860 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.UserTest.CreateUser
+INFO    2024-03-26 02:24:58,538 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:58,538 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:24:58,538 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.UserTest.CreateUser
+INFO    2024-03-26 02:25:00,185 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:25:00,186 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:25:00,186 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.UserTest.CreateUser
+INFO    2024-03-26 02:25:01,828 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:25:01,829 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:25:01,829 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.UserTest.CreateUser
+INFO    2024-03-26 02:25:03,464 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:25:03,464 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:25:03,464 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.UserTest.CreateUser
+INFO    2024-03-26 02:25:05,117 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:25:05,117 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:25:05,117 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.UserTest.CreateUser
+INFO    2024-03-26 02:25:06,792 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:25:06,793 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:25:06,793 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.UserTest.CreateUser
+INFO    2024-03-26 02:25:08,475 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:25:08,476 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:25:08,476 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.UserTest.CreateUser
+INFO    2024-03-26 02:25:10,099 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:25:10,099 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:25:10,099 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.UserTest.CreateUser
+INFO    2024-03-26 02:25:11,787 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:25:11,788 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:25:11,788 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.UserTest.CreateUser
+INFO    2024-03-26 02:25:13,440 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:25:13,440 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:25:13,441 [main] org.testng.internal.Utils  - [Invoker 1442077586] Invoking com.Automation.Datagenerator.test.administration.usermanagement.UserTest.CreateUser
+INFO    2024-03-26 02:25:15,049 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:25:15,049 [main] org.testng.internal.Utils  - [Invoker 1442077586] No configuration methods found
+INFO    2024-03-26 02:25:15,058 [main] org.testng.internal.Utils  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1cfca845: 0 ms

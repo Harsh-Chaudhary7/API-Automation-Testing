@@ -1,0 +1,14 @@
+Username,Description,Firstname,Lastname,Email,Password,Roles(|)Separated,License
+tenantadmin,Test User Desc,tenant,administrator,a@a.com,Admin@123,AAE_BASIC|AP,ADMIN
+tenantdeveloper,Test User Desc,tenant,developer,a@a.com,Admin@123,AAE_BASIC|AP,DEVELOPMENT
+tenantrunner,Test User Desc,tenant,runner,a@a.com,Admin@123,AAE_BASIC|AP,RUNTIME
+thaddehami,Test User Desc,test,user,Thaddeus.HAMILT5950@hushmail.com,User@123,AAE_BASIC|AP,RUNTIME
+KevinClarkson,Test User Desc,test,user,kevin.clarkson@automationanywhere.com,User@123,AAE_BASIC|AP,RUNTIME
+CharlesMackay,Test User Desc,test,user,charles.mackay@automationanywhere.com,User@123,AAE_BASIC|AP,RUNTIME
+RyanNash,Test User Desc,test,user,ryan.nash@automationanywhere.com,User@123,AAE_BASIC|AP,RUNTIME
+WendyWright,Test User Desc,test,user,wendy.wright@automationanywhere.com,User@123,AAE_BASIC|AP,RUNTIME
+FionaHenderson,Test User Desc,test,user,fiona.henderson@automationanywhere.com,User@123,AAE_BASIC|AP,DEVELOPMENT
+yoserow,Test User Desc,test,user,Yosel.ROWE3954@live.com,User@123,AAE_BASIC|AP,DEVELOPMENT
+OliviaWilkins,Test User Desc,test,user,olivia.wilkins@automationanywhere.com,User@123,AAE_BASIC|AP,DEVELOPMENT
+TimKing,Test User Desc,test,user,tim.king@automationanywhere.com,User@123,AP,RUNTIME
+JessicaMackenzie,Test User Desc,test,user,jessica.mackenzie@automationanywhere.com,User@123,AAE_Basic,DEVELOPMENT
